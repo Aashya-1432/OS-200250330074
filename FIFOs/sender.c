@@ -15,3 +15,5 @@ int main()
 
 }
 
+
+//in FIFOs u can 1st create file .txt using cmd ---- [ mkfifo -m0600 <name of file>]
